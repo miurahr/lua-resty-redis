@@ -1,0 +1,14 @@
+Source: lua-resty-redis
+Section: interpreters
+Priority: optional
+Maintainer: Bearnard Hibbins <bearnard@gmail.com>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.8.2
+Homepage: http://agentzh.org
+Vcs-Git: git://github.com/agentzh/lua-resty-redis.git
+Vcs-Browser: https://github.com/agentzh/lua-resty-redis
+
+Package: liblua5.1-resty-redis
+Architecture: all
+Depends: ${shlibs:Depends}
+Description: Lua redis client driver for the ngx_lua based on the cosocket API

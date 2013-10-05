@@ -1,0 +1,12 @@
+lua-resty-redis (0.15-0ubuntu0ppa1~precise) precise; urgency=low
+
+  * New upstream release.
+
+ -- Bearnard Hibbins <bearnard@gmail.com>  Mon, 10 Sep 2012 17:48:09 +0200
+
+lua-resty-redis (0.13-0ubuntu0ppa1~precise) precise; urgency=low
+
+  * Initial release.
+
+ -- Bearnard Hibbins <bearnard@gmail.com>  Mon, 10 Sep 2012 17:48:09 +0200
+
